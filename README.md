@@ -1,39 +1,36 @@
-# Portafolio de proyectos – David Esteban Forero
+# Misión Pixel – Videojuego de plataformas
 
-Repositorio que reúne proyectos desarrollados durante mi formación en Ingeniería de Sistemas. Los proyectos están enfocados en analítica de datos, desarrollo de software y exploración de soluciones tecnológicas aplicadas a problemas reales.
+Proyecto académico desarrollado en Unity como parte de la materia Programación Orientada a Objetos. El objetivo del proyecto fue aplicar conceptos fundamentales de POO, como clases, objetos y modularización del código, en la construcción de un videojuego de plataformas con mecánicas de interacción entre el jugador y el entorno.
 
-Áreas principales:
+## Conceptos aplicados
 
-• Analítica de datos  
-• Web scraping  
-• Machine Learning  
-• Desarrollo web  
-• Programación Orientada a Objetos  
-• Ingeniería de Software  
+- Programación orientada a objetos (POO)  
+- Modularización de código  
+- Lógica de movimiento del jugador  
+- Sistema de vidas y manejo de eventos en el juego  
+- Interacción entre personaje y entorno  
 
 ## Tecnologías utilizadas
 
-Python  
-Pandas  
-Machine Learning (Regresión Lineal, Regresión Logística, Random Forest)  
-SQL  
-Power BI  
-HTML  
-Java  
-JavaScript  
-Google Colab  
+- Unity  
+- C#  
 
-## Proyectos destacados
+## Contenido del repositorio
 
-**Análisis de precios de competencia mediante web scraping**
+- **code-snippets/**: fragmentos de código utilizados en el juego (movimiento del jugador, sistema de vidas)  
+- **images/**: capturas del videojuego y sprite del personaje  
+- **videos/**:  
+  - video de prueba del juego  
+  - video del resultado final  
 
-Extracción de datos de tiendas en línea utilizando Python, limpieza y estructuración del dataset en Google Colab y análisis para apoyar la definición de precios competitivos para la marca Mundo Materno Bogotá.
+## Descripción de los archivos
 
-**Videojuego de plataformas (Programación Orientada a Objetos)**
+- `player_movement.cs` → código de movimiento del jugador  
+- `health_system.cs` → código del sistema de vidas  
+- `sprite_personaje.png` → imagen del personaje  
+- `test_gameplay.mp4` → video de prueba  
+- `final_gameplay.mp4` → video del juego final  
 
-Desarrollo de un videojuego en Unity aplicando conceptos de clases, objetos y modularización del código.
+## Nota sobre la calidad de los archivos
 
-**Prototipo web para tienda de ropa materna**
-
-Desarrollo de prototipos de páginas web utilizando HTML y WooCommerce para explorar la digitalización del negocio.
-
+Al tratarse de un proyecto realizado hace aproximadamente 2 años, algunos archivos visuales pueden presentar limitaciones en su calidad. Aun así, permiten evidenciar el desarrollo del juego y la aplicación de los conceptos de programación orientada a objetos.
