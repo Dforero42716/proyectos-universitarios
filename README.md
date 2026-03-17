@@ -37,6 +37,3 @@ Desarrollo de un videojuego en Unity aplicando conceptos de clases, objetos y mo
 
 Desarrollo de prototipos de páginas web utilizando HTML y WooCommerce para explorar la digitalización del negocio.
 
-## Objetivo del repositorio
-
-Este repositorio funciona como portafolio de proyectos académicos y personales relacionados con el aprendizaje y aplicación práctica de herramientas de desarrollo y análisis de datos.
